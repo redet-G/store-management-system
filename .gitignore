@@ -2,3 +2,5 @@
 *.kayout
 *.o
 obj
+bin
+
