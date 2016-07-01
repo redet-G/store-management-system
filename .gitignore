@@ -1,0 +1,4 @@
+*.cpb
+*.kayout
+*.o
+obj
